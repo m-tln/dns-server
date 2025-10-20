@@ -40,5 +40,5 @@
 # debug information files
 *.dwoi
 
-build
-.cache
+build/*
+.cache/*
