@@ -38,4 +38,7 @@
 *.app
 
 # debug information files
-*.dwo
+*.dwoi
+
+build
+.cache

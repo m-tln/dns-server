@@ -1,0 +1,15 @@
+{
+  "server": {
+    "port": 8083,
+    "default_ip": "127.0.0.1",
+    "log_queries": true
+  },
+  "dns_records": {
+    "example.com": "93.184.216.34",
+    "google.com": "8.8.8.8",
+    "test.local": "192.168.1.100",
+    "mysite.com": "127.0.0.1",
+    "api.local": "192.168.1.200",
+    "db.local": "192.168.1.201"
+  }
+}
